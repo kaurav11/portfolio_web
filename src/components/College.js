@@ -41,8 +41,8 @@ function College() {
             National Institute of Technology Jamshedpur
           </Text>
           <Text color={isDark ? "gray.200" : "gray.500"} ml="20px">
-          An Institute of National Importance Established by Government of India
-            
+            An Institute of National Importance Established by Government of
+            India
           </Text>
         </Box>
       </Flex>
